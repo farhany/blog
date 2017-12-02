@@ -1,5 +1,5 @@
 baseURL = "https://farhany.github.io/blog"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Farhan's Portion of the Web"
 theme = "ananke"
 publishDir = "docs/"
