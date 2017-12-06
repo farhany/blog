@@ -3,34 +3,34 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.farhany.com/blog/post/gaming/</loc>
+    <loc>http://www.farhany.com/post/gaming/</loc>
     <lastmod>2017-12-01T17:26:52-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.farhany.com/blog/post/my-first-post/</loc>
+    <loc>http://www.farhany.com/post/my-first-post/</loc>
     <lastmod>2017-12-01T17:17:59-08:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.farhany.com/blog/categories/</loc>
+    <loc>http://www.farhany.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.farhany.com/blog/</loc>
+    <loc>http://www.farhany.com/</loc>
     <lastmod>2017-12-01T17:26:52-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.farhany.com/blog/post/</loc>
+    <loc>http://www.farhany.com/post/</loc>
     <lastmod>2017-12-01T17:26:52-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.farhany.com/blog/tags/</loc>
+    <loc>http://www.farhany.com/tags/</loc>
     <priority>0</priority>
   </url>
   
