@@ -1,4 +1,4 @@
-baseURL = "https://www.farhany.com/blog"
+baseURL = "http://www.farhany.com/blog"
 languageCode = "en-us"
 title = "Farhan's Portion of the Web"
 theme = "ananke"
