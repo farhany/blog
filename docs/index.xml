@@ -6,10 +6,21 @@
     <description>Recent content on Farhan&#39;s Portion of the Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Dec 2017 17:26:52 -0800</lastBuildDate>
+    <lastBuildDate>Wed, 06 Dec 2017 09:47:00 -0800</lastBuildDate>
     
 	<atom:link href="http://www.farhany.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Uptime</title>
+      <link>http://www.farhany.com/post/uptime/</link>
+      <pubDate>Wed, 06 Dec 2017 09:47:00 -0800</pubDate>
+      
+      <guid>http://www.farhany.com/post/uptime/</guid>
+      <description>Since this is hosted on GitHub pages, it should be online all the time.
+Also, I&amp;rsquo;ve decided to start fresh and not import my Wordpress site. That&amp;rsquo;s quote dated, and maybe one day, when I have ample time, I could look into the import process.
+Only crappy thing with hosting this on GitHub is that you don&amp;rsquo;t get https with a custom domain. Oh well, at least there are no admin interfaces where passwords can be sniffed or man-in-the-middled.</description>
+    </item>
     
     <item>
       <title>Gaming</title>
