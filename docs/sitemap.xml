@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://www.farhany.com/post/microbit/</loc>
+    <lastmod>2017-12-06T22:13:31-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://www.farhany.com/post/uptime/</loc>
     <lastmod>2017-12-06T09:47:00-08:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>http://www.farhany.com/</loc>
-    <lastmod>2017-12-06T09:47:00-08:00</lastmod>
+    <lastmod>2017-12-06T22:13:31-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.farhany.com/post/</loc>
-    <lastmod>2017-12-06T09:47:00-08:00</lastmod>
+    <lastmod>2017-12-06T22:13:31-08:00</lastmod>
     <priority>0</priority>
   </url>
   
