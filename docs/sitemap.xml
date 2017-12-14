@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.farhany.com/post/getting-the-hang-of-this/</loc>
+    <lastmod>2017-12-13T23:27:22-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.farhany.com/post/microbit/</loc>
     <lastmod>2017-12-06T22:13:31-08:00</lastmod>
   </url>
@@ -29,13 +34,13 @@
   
   <url>
     <loc>https://www.farhany.com/</loc>
-    <lastmod>2017-12-06T22:13:31-08:00</lastmod>
+    <lastmod>2017-12-13T23:27:22-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.farhany.com/post/</loc>
-    <lastmod>2017-12-06T22:13:31-08:00</lastmod>
+    <lastmod>2017-12-13T23:27:22-08:00</lastmod>
     <priority>0</priority>
   </url>
   
