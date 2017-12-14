@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Farhan&#39;s Portion of the Web</title>
-    <link>http://www.farhany.com/</link>
+    <link>https://www.farhany.com/</link>
     <description>Recent content on Farhan&#39;s Portion of the Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Dec 2017 22:13:31 -0800</lastBuildDate>
     
-	<atom:link href="http://www.farhany.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.farhany.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Micro:bit</title>
-      <link>http://www.farhany.com/post/microbit/</link>
+      <link>https://www.farhany.com/post/microbit/</link>
       <pubDate>Wed, 06 Dec 2017 22:13:31 -0800</pubDate>
       
-      <guid>http://www.farhany.com/post/microbit/</guid>
+      <guid>https://www.farhany.com/post/microbit/</guid>
       <description>Just picked up a BBC micro:bit. It&amp;rsquo;s a fun little toy. Liked it a lot more than an Arduino or a Raspberry PI. This thing is easy to get started with, in mere seconds.</description>
     </item>
     
     <item>
       <title>Uptime</title>
-      <link>http://www.farhany.com/post/uptime/</link>
+      <link>https://www.farhany.com/post/uptime/</link>
       <pubDate>Wed, 06 Dec 2017 09:47:00 -0800</pubDate>
       
-      <guid>http://www.farhany.com/post/uptime/</guid>
+      <guid>https://www.farhany.com/post/uptime/</guid>
       <description>Since this is hosted on GitHub pages, it should be online all the time.
 Also, I&amp;rsquo;ve decided to start fresh and not import my Wordpress site. That&amp;rsquo;s quote dated, and maybe one day, when I have ample time, I could look into the import process.
 Only crappy thing with hosting this on GitHub is that you don&amp;rsquo;t get https with a custom domain. Oh well, at least there are no admin interfaces where passwords can be sniffed or man-in-the-middled.</description>
@@ -33,20 +33,20 @@ Only crappy thing with hosting this on GitHub is that you don&amp;rsquo;t get ht
     
     <item>
       <title>Gaming</title>
-      <link>http://www.farhany.com/post/gaming/</link>
+      <link>https://www.farhany.com/post/gaming/</link>
       <pubDate>Fri, 01 Dec 2017 17:26:52 -0800</pubDate>
       
-      <guid>http://www.farhany.com/post/gaming/</guid>
+      <guid>https://www.farhany.com/post/gaming/</guid>
       <description>There has been a lot of discussion on how PC Gaming will always be farther ahead of consoles.
 That is true, but most worthwhile, AAA tiles are first available on consoles first. With the recent port of Destiny 2 to PC, I am greatly interested in it because it will support 60 frames per second even with a cheap $75 GTX 1060 card in 1080p. This is fine. I don&amp;rsquo;t need anything higher resolution at this time because I don&amp;rsquo;t have a 4K TV.</description>
     </item>
     
     <item>
       <title>Wordpress is so yesterday!</title>
-      <link>http://www.farhany.com/post/my-first-post/</link>
+      <link>https://www.farhany.com/post/my-first-post/</link>
       <pubDate>Fri, 01 Dec 2017 17:17:59 -0800</pubDate>
       
-      <guid>http://www.farhany.com/post/my-first-post/</guid>
+      <guid>https://www.farhany.com/post/my-first-post/</guid>
       <description>I&amp;rsquo;ve been a Wordpress fan since the mid-2000s. It was indeed the bee&amp;rsquo;s knees at that point. But times have changed and its time to re-hash a simple blog and host it on GitHub or GitLabs.</description>
     </item>
     
