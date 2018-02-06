@@ -6,10 +6,20 @@
     <description>Recent content on Farhan&#39;s Portion of the Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Dec 2017 23:27:22 -0800</lastBuildDate>
+    <lastBuildDate>Mon, 05 Feb 2018 17:42:33 -0800</lastBuildDate>
     
 	<atom:link href="https://www.farhany.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Word of the Day</title>
+      <link>https://www.farhany.com/post/word-of-the-day/</link>
+      <pubDate>Mon, 05 Feb 2018 17:42:33 -0800</pubDate>
+      
+      <guid>https://www.farhany.com/post/word-of-the-day/</guid>
+      <description>The word of the day is: gratuitous complexity.
+I think that means: &amp;ldquo;No, don&amp;rsquo;t do what you want to do because in my head&amp;hellip; that is too complex to add any value.&amp;rdquo;</description>
+    </item>
     
     <item>
       <title>Getting the Hang of This</title>
