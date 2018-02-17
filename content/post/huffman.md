@@ -6,7 +6,7 @@ I finally understood how the Huffman Data Compression Encoding works.
 
 A simple, and short video on how it is done:
 
-https://www.youtube.com/watch?v=apcCVfXfcqE
+{{< youtube apcCVfXfcqE >}}
 
 Some Ruby code:
 
