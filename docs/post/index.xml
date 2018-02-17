@@ -6,10 +6,23 @@
     <description>Recent content in Posts on Farhan&#39;s Portion of the Web</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 07 Feb 2018 21:24:36 -0800</lastBuildDate>
+    <lastBuildDate>Fri, 16 Feb 2018 22:04:41 -0800</lastBuildDate>
     
 	<atom:link href="https://www.farhany.com/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Huffman Encoding</title>
+      <link>https://www.farhany.com/post/huffman/</link>
+      <pubDate>Fri, 16 Feb 2018 22:04:41 -0800</pubDate>
+      
+      <guid>https://www.farhany.com/post/huffman/</guid>
+      <description>I finally understood how the Huffman Data Compression Encoding works.
+A simple, and short video on how it is done:
+https://www.youtube.com/watch?v=apcCVfXfcqE
+Some Ruby code:
+https://github.com/lithium3141/HuffmanCoding.git</description>
+    </item>
     
     <item>
       <title>Tuatara - Third Eye</title>
