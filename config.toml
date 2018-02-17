@@ -1,5 +1,5 @@
 baseURL = "https://www.farhany.com/"
 languageCode = "en-us"
-title = "Farhan's Portion of the Web"
+title = "Infinity x Zero"
 theme = "ananke"
 publishDir = "docs/"
