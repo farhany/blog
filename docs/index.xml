@@ -19,8 +19,7 @@
       <guid>https://www.farhany.com/post/huffman/</guid>
       <description>I finally understood how the Huffman Data Compression Encoding works.
 A simple, and short video on how it is done:
-https://www.youtube.com/watch?v=apcCVfXfcqE
-Some Ruby code:
+  Some Ruby code:
 https://github.com/lithium3141/HuffmanCoding.git</description>
     </item>
     
