@@ -6,10 +6,20 @@
     <description>Recent content on Infinity x Zero</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Feb 2018 22:04:41 -0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Mar 2018 23:25:28 -0700</lastBuildDate>
     
 	<atom:link href="https://www.farhany.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Close to the End</title>
+      <link>https://www.farhany.com/post/close-to-the-end/</link>
+      <pubDate>Tue, 13 Mar 2018 23:25:28 -0700</pubDate>
+      
+      <guid>https://www.farhany.com/post/close-to-the-end/</guid>
+      <description>Things may be getting closer, to their eventual finish line.
+One can hope. But first, day light saving time is an unnecessary evil that causes an uptick in accidents and mistakes due to an unnatural screwing around with timing.</description>
+    </item>
     
     <item>
       <title>Huffman Encoding</title>
