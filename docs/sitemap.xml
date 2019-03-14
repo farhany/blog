@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.farhany.com/post/show_to_kid/</loc>
+    <lastmod>2019-03-14T14:04:58-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.farhany.com/post/close-to-the-end/</loc>
     <lastmod>2018-03-13T23:25:28-07:00</lastmod>
   </url>
@@ -54,13 +59,13 @@
   
   <url>
     <loc>https://www.farhany.com/</loc>
-    <lastmod>2018-03-13T23:25:28-07:00</lastmod>
+    <lastmod>2019-03-14T14:04:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.farhany.com/post/</loc>
-    <lastmod>2018-03-13T23:25:28-07:00</lastmod>
+    <lastmod>2019-03-14T14:04:58-07:00</lastmod>
     <priority>0</priority>
   </url>
   
