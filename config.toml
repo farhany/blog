@@ -1,5 +1,5 @@
 baseURL = "https://www.farhany.com/"
 languageCode = "en-us"
 title = "Infinity x Zero"
-theme = "arial"
+theme = "aerial"
 publishDir = "docs/"
