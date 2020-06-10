@@ -5,10 +5,10 @@ theme = "bleak"
 publishDir = "docs/"
 
 [params]
-  # Warning Keys are case sensitives
-  Subtitle = "Infinity x Zero"
+  Subtitle = "Farhan's Ramblings"
   description = "Tech Ramblings of a Full Stack Engineer"
   cover = "/images/bulb.jpg"
+  #cover = "/docs/images/bulb.jpg"
 
   [params.author]
     firstName = "Farhan"
