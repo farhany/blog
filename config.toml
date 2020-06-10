@@ -1,5 +1,26 @@
 baseURL = "https://www.farhany.com/"
 languageCode = "en-us"
 title = "Infinity x Zero"
-theme = "aerial"
+theme = "hugo-theme-bleak"
 publishDir = "docs/"
+
+[params]
+  # Warning Keys are case sensitives
+  Subtitle = "Infinity x Zero"
+  description = "Tech Ramblings of a Full Stack Engineer"
+  cover = "/images/bulb.jpg"
+
+  [params.author]
+    firstName = "Farhan"
+    lastName = "Yousaf"
+    gender = "male"
+    userName = "farhany"
+#    image = "//www.gravatar.com/avatar/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.png"
+    website = "https://www.farhany.com"
+    twitter = "farhany"
+    github = "farhany"
+#    facebook = "xxxxxxxxx"
+#    linkedin = "xxxxxxxxx"
+#    gplus = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+#    gravatarHash = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
+
