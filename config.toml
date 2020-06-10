@@ -1,7 +1,7 @@
 baseURL = "https://www.farhany.com/"
 languageCode = "en-us"
 title = "Infinity x Zero"
-theme = "hugo-theme-bleak"
+theme = "bleak"
 publishDir = "docs/"
 
 [params]
